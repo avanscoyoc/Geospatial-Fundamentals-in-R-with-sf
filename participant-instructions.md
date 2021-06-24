@@ -8,7 +8,7 @@
 
 2. If you do not have R and RStudio installed on your computer, download and install [RStudio Desktop](https://rstudio.com/products/rstudio/), with R version >= 3.5.
 
-3. Then, open RStudio and install the following R packages, using the syntax **install.package('<pkg_name>')** 
+3. Then, open RStudio and install the following R packages, using the syntax **install.package('package_name')** *for instance, install.package('sf')*
   * `sf`
   * `tmap`
   * `units`
